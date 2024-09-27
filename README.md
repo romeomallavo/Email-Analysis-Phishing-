@@ -109,7 +109,3 @@ This lab demonstrated the process of analyzing a phishing email by examining ema
 ## Notes
 
 Always conduct email analysis in a controlled environment. Do not open or interact with suspicious emails or attachments on your local machine.
-
----
-
-Simply copy and paste this content into a `README.md` file in your GitHub repository. Adjust any sections as needed based on your specific findings or personal preferences.
